@@ -16,6 +16,6 @@ DataPreprocess_tifGetXY.py：从 TIFF 格式文件中提取空间坐标信息
 Modelling_HT_Kriging.py/Modelling_HT_twoKriging.py：基于 ** 克里金（Kriging）** 的空间插值建模（含单 / 双克里金方法）
 Modelling_HT_Weight.py：带权重约束的空间建模脚本
 Modelling_MultipleMachineModels.py：多机器学习模型的训练、评估与对比脚本
-3. 辅助模块
+3. 产品生成模块
 Figures.py：分析结果的可视化脚本（生成图表、可视化报告）
 Mapping_preHT.py：30m优势高地图生成
